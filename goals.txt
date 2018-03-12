@@ -7,3 +7,4 @@ understand backend better.
 get a great portfolio page (been languishing for years - scottburton.us)
 get great at full stack RESTful JS Development
 get really good at complex algorithms, and understanding JS & Python very thoroughly
+some other goals
